@@ -1,0 +1,4 @@
+id,name,amount,date
+1,Alice,10,2025-01-01
+2,Bob,25,2025-01-02
+3,Charlie,,2025-01-03
